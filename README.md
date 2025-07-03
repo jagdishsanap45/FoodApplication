@@ -1,4 +1,4 @@
-========Tech Stack============================================================================================
+========Tech Stack===========
 
 - Java 17+: The primary programming language.
 - Spring Boot: For building the main RESTful APIs and microservices.
@@ -11,7 +11,7 @@
 - Hibernate: JPA provider for object-relational mapping.
 - JSON Simple: Simpler JSON creation and parsing.
 - RestTemplate: For intra-service REST API calls and third-party integrations.
-=================================================================================================================
+=============================================================================
   
 - Modular Microservices:
                The project is split into
@@ -19,4 +19,4 @@
                     merchant,
                     driver, and
                     utility services for better scalability and separation of concerns.
-  ===============================================================================================================
+  ========================================================================
